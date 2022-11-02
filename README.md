@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VladimirAG
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning swift
+- 🌱 I’m currently learning C++
 - 📫 How to reach me gavrilov.v.a.1990@gmail.com
 
 <!---
