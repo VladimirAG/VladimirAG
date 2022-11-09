@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @VladimirAG
-- 👀 I’m interested in game development
+- 👋 Hi, I’m Vladimir!
+- 👀 I’m interested in programming, science fiction, game development
 - 🌱 I’m currently learning C++
 - 📫 How to reach me gavrilov.v.a.1990@gmail.com
 
