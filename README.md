@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vladimir!
 - 👀 I’m interested in programming, science fiction, sports
-- 🌱 I’m currently learning C++, Python, Algorithms and Data Structures
+- 🌱 I’m currently learning Python, Algorithms and Data Structures
 - 📫 How to reach me gavrilov.v.a.1990@gmail.com
 
 <!---
